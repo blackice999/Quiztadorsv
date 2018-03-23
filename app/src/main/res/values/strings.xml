@@ -4,4 +4,6 @@
     <string name="et_login_password_hint">Password</string>
     <string name="btn_login">Login</string>
     <string name="tv_signup">or signup</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_login">Already have an account? Login</string>
 </resources>
