@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiztador</string>
+    <string name="et_login_username_hint">Username</string>
+    <string name="et_login_password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_signup">or signup</string>
+</resources>
