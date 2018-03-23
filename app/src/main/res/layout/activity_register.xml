@@ -21,7 +21,7 @@
             android:textColorHint="@color/colorWhite">
 
             <EditText
-                android:id="@+id/et_login_username"
+                android:id="@+id/et_register_username"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/ic_account_circle_white_48dp"
@@ -52,7 +52,7 @@
         </android.support.design.widget.TextInputLayout>
 
         <Button
-            android:id="@+id/btn_login"
+            android:id="@+id/btn_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/til_password"
@@ -67,7 +67,7 @@
             android:id="@+id/tv_signup"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/btn_login"
+            android:layout_below="@id/btn_register"
             android:layout_centerInParent="true"
             android:layout_marginTop="20dp"
             android:text="@string/tv_login"
