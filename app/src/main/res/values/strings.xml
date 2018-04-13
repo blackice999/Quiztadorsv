@@ -6,4 +6,5 @@
     <string name="tv_signup">or signup</string>
     <string name="btn_register">Register</string>
     <string name="tv_login">Already have an account? Login</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
